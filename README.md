@@ -1,2 +1,2 @@
 # test
-$2^256+8=2^264$
+$addr1=(base-offset) mod $|M|$;addr2=(base+offset) mod $|M|$$
